@@ -1,5 +1,5 @@
 ### .init
-Hi, I'm Muhammet Ali Kaya. I've been writing code for the web since I was 17 years old.<br>
+Hi, I'm Muhammet Ali Kaya. I've been writing code for the web since I was 14 years old.<br>
 Some of works is listed on my [portfolio](https://mami.codes).
 
 ### .code
